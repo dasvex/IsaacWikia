@@ -1,0 +1,110 @@
+﻿<item>
+  <translate>	OДурак	</translate>
+  <name>	OThe Fool	</name>
+  <description>	Телепортирует игрока в первую комнату на уровне, откуда он начал (даже если он уже там). 	</description>
+</item>
+<item>
+  <translate>	IМаг	</translate>
+  <name>	IThe Magician	</name>
+  <description>	Слезы игрока начинают наводиться на монстров до выхода из комнаты (Действие артефакта “Сгибатель Ложек”). 	</description>
+</item>
+<item>
+  <translate>	IIВерховная Жрица	</translate>
+  <name>	IIThe High Priestess	</name>
+  <description>	Нога Мамы топает по случайному врагу, может также наступить на игрока, если в комнате врагов нет. Топот имеет эффект взрыва, поэтому"ногой" можно взрывать камни, двери и т.д. Тень может "следить" за монстрами, но только если они достаточно быстрые. 	</description>
+</item>
+<item>
+  <translate>	IIIИмператрица	</translate>
+  <name>	IIIThe Empress	</name>
+  <description>	Превращает игрока в демона, увеличивая урон на 2 и скорость на 1 до выхода из комнаты (эффект артефакта Вавилонская Блудница). 	</description>
+</item>
+<item>
+  <translate>	IVИмператор	</translate>
+  <name>	IVThe Emperor	</name>
+  <description>	Телепортирует игрока в Комнату с Боссом. Если игрок уже в этой комнате, здоровье Босса будет восполнено. (Босс будет тот же самый, но он может поменять цвет). Если босс уже побеждён, не создаёт его заново, при использовании после Мамы создаёт дверь для выхода из комнаты (также может создать дверь в комнату Дьявола) 	</description>
+</item>
+<item>
+  <translate>	VВерховный Жрец	</translate>
+  <name>	VThe Hierophant	</name>
+  <description>	Создает 2 Сердца Души. 	</description>
+</item>
+<item>
+  <translate>	VIВлюбленные	</translate>
+  <name>	VIThe Lovers	</name>
+  <description>	Создает 2 обычных Сердца. 	</description>
+</item>
+<item>
+  <translate>	VIIКолесница	</translate>
+  <name>	VIIThe Chariot	</name>
+  <description>	Даёт временную неуязвимость и возможность повреждать врагов при касании. Однако, вы не сможете атаковать, пока вы будете держать Мамин Нож. (Эффект Артефакта “Мой Маленький Единорог”). 	</description>
+</item>
+<item>
+  <translate>	VIIIСправедливость	</translate>
+  <name>	VIIIJustice	</name>
+  <description>	Создает бомбу (может создать 1+1, тролль-бомбу или большую тролль бомбу), сердце (может создать половину, сердце души или вечное сердце), пенни (может создать пятак и червонец) и ключ (может создать золотой ключ) рядом с игроком. 	</description>
+</item>
+<item>
+  <translate>	IXОтшельник	</translate>
+  <name>	IXThe Hermit	</name>
+  <description>	Телепортирует игрока в Магазин. Если данная комната была закрыта, она станет открыта. Если на уровне нет Магазина, то телепортирует в случайную комнату. 	</description>
+</item>
+<item>
+  <translate>	XКолесо Фортуны	</translate>
+  <name>	XWheel of Fortune	</name>
+  <description>	Ставит рядом с игроком Игровой Автомат. В дополнении Wrath of the Lamb карта также может поставить Автомат Предсказаний. 	</description>
+</item>
+<item>
+  <translate>	XIСила	</translate>
+  <name>	XIStrength	</name>
+  <description>	Увеличивает размер игрока, макс. здоровье и повреждение в рамках данной комнаты (эффект артефакта Магический Гриб без восстановления полного здоровья). ??? получает постоянное сердце души, а не временное увеличение максимального здоровья (баг?). 	</description>
+</item>
+<item>
+  <translate>	XIIПовешенный	</translate>
+  <name>	XIIThe Hanged Man	</name>
+  <description>	Убирает тело игрока, позволяя летать над препятствиями и шипами до выхода из комнаты (эффект артефакта Виселица. При наличии артефакта, превращающего игрока в демона, карта не убирает тело, а дает крылья (эффект артефакта Повелитель Ям). 	</description>
+</item>
+<item>
+  <translate>	XIIIСмерть	</translate>
+  <name>	XIIIDeath	</name>
+  <description>	Наносит урон всем врагам в комнате. Смерть(Всадник Апокалипсиса) и Сатана имеют имунитет к эфекту этой карты. 	</description>
+</item>
+<item>
+  <translate>	XIVБашня	</translate>
+  <name>	XIVThe Tower	</name>
+  <description>	Эффект Артефакта “Кулинарная Книга Анархиста” (Anarchist Cookbook), действующий в рамках данной комнаты (создает 6 тролль-бомб по комнате). 	</description>
+</item>
+<item>
+  <translate>	XVДьявол	</translate>
+  <name>	XVThe Devil	</name>
+  <description>	Эффект Артефакта “Книга Дьявола” (Book of Belial), действующий в рамках данной комнаты (увеличение урона на 3). 	</description>
+</item>
+<item>
+  <translate>	XVIСдержанность	</translate>
+  <name>	XVITemperance	</name>
+  <description>	Ставит рядом с игроком Автомат по сдаче крови. 	</description>
+</item>
+<item>
+  <translate>	XVIIЗвезды	</translate>
+  <name>	XVIIThe Stars	</name>
+  <description>	Телепортирует игрока в Сокровищницу. Если на этаже ее нет, то телепортирует игрока в случайную комнату. 	</description>
+</item>
+<item>
+  <translate>	XVIIIЛуна	</translate>
+  <name>	XVIIIThe Moon	</name>
+  <description>	Телепортирует игрока в Секретную Комнату. 	</description>
+</item>
+<item>
+  <translate>	XIXСолнце	</translate>
+  <name>	XIXThe Sun	</name>
+  <description>	Полностью восстанавливает здоровье, наносит большой урон всем врагам в комнате, также использует открывает всю карту данного этажа (эффект XXI Мир, XIII Смерть (при этом Сатана и Всадник Смерти не имеют иммунитета к карте Солнце), и пилюли Full Health (она вылечит ??? только до 3 сердец). Снимает 70% здоровья Мамы. 	</description>
+</item>
+<item>
+  <translate>	XXСуд	</translate>
+  <name>	XXJudgement	</name>
+  <description>	Ставит рядом с игроком Попрошайку. В дополнении Wrath of the Lamb, также может поставить Демонического попрошайку. 	</description>
+</item>
+<item>
+  <translate>	XXIМир	</translate>
+  <name>	XXIThe World	</name>
+  <description>	Совмещенный эффект Артефактов “Карта Сокровищ” (Treasure Map) и “Компас” (The Compass) – полностью открывает всю карту уровня. 	</description>
+</item>

@@ -1,0 +1,85 @@
+﻿<item>
+  <translate>	Мерзкий Газ 	</translate>
+  <name>	Bad Gas 	</name>
+  <description>	Отравляет врагов в небольшом радиусе. 	</description>
+</item>
+<item>
+  <translate>	Неудачная Галлюцинация 	</translate>
+  <name>	Bad Trip 	</name>
+  <description>	Игроку наносится урон в 1 Сердце (Сердца Души не игнорируются). В случае, если у игрока и осталось 1 Сердце (или даже меньше), то ему восстанавливается полное здоровье. 	</description>
+</item>
+<item>
+  <translate>	Стальные Яйца 	</translate>
+  <name>	Balls of Steel 	</name>
+  <description>	Добавляет 2 Сердца Души. 	</description>
+</item>
+<item>
+  <translate>	Бомбы=Ключи 	</translate>
+  <name>	Bombs Are Key 	</name>
+  <description>	Меняет местами кол-во бомб с кол-вом ключей. 	</description>
+</item>
+<item>
+  <translate>	Взрывная Диарея! 	</translate>
+  <name>	Explosive Diarrhea! (Oh No!) 	</name>
+  <description>	Игрок роняет на ходу 5 бомб подряд. (не тратит бомбы) 	</description>
+</item>
+<item>
+  <translate>	Полное Здоровье 	</translate>
+  <name>	Full Health 	</name>
+  <description>	Восстанавливает все здоровье. Если используется за ??? и здоровье меньше 3 сердец души, то его здоровье восстановится до 3 сердец. 	</description>
+</item>
+<item>
+  <translate>	Больше Здоровья 	</translate>
+  <name>	Health Up 	</name>
+  <description>	Добавляет пустой контейнер здоровья. Окрашивает персонажа в красный цвет. 	</description>
+</item>
+<item>
+  <translate>	Меньше Здоровья 	</translate>
+  <name>	Health Down 	</name>
+  <description>	Отнимает пустой контейнер здоровья. Если у вас всего один контейнер здоровья, пилюля сменится на Health Up. 	</description>
+</item>
+<item>
+  <translate>	Я Нашел Таблеточки 	</translate>
+  <name>	I found pills 	</name>
+  <description>	... и съел их (...and ate them). (В Wrath of the Lamb эта пилюля дает один из двух случайных эффектов: оригинальный и "Puberty") Чисто косметический эффект - изменяет лицо персонажа. 	</description>
+</item>
+<item>
+  <translate>	Милая Мушка 	</translate>
+  <name>	Pretty Fly 	</name>
+  <description>	Тот же эффект, что и у одноименного Артефакта. Добавляет муху, летающую вокруг игрока. 	</description>
+</item>
+<item>
+  <translate>	Меньше Радиус 	</translate>
+  <name>	Range Down 	</name>
+  <description>	Уменьшает дальность стрельбы. 	</description>
+</item>
+<item>
+  <translate>	Больше Радиус 	</translate>
+  <name>	Range Up 	</name>
+  <description>	Увеличивает дальность стрельбы. Окрашивает игрока в синий цвет. 	</description>
+</item>
+<item>
+  <translate>	Меньше Скорости 	</translate>
+  <name>	Speed Down 	</name>
+  <description>	Понижает скорость перемещения. 	</description>
+</item>
+<item>
+  <translate>	Больше Скорости 	</translate>
+  <name>	Speed Up 	</name>
+  <description>	Повышает скорость перемещения. Окрашивает игрока в желтый цвет. 	</description>
+</item>
+<item>
+  <translate>	Меньше Слез 	</translate>
+  <name>	Tears Down 	</name>
+  <description>	Понижает скорострельность. 	</description>
+</item>
+<item>
+  <translate>	Больше Слез 	</translate>
+  <name>	Tears Up 	</name>
+  <description>	Повышает скорострельность. Окрашивает игрока в фиолетовый цвет. 	</description>
+</item>
+<item>
+  <translate>	Телепилюля 	</translate>
+  <name>	Telepills 	</name>
+  <description>	Одиночное использование артефакта "Телепорт!". Может телепортировать в комнату Я-ОШИБКА. 	</description>
+</item>
